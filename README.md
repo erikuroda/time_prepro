@@ -4,6 +4,10 @@
 # 手順
 
 ## time_conll
+### BCCWJ-TIMEX
+- git上にはデータは置きませんでしたが、time_conllの下に作成してください
+- time_conll/BCCWJ-TIMEX/*.xml という感じです
+- 昨年の時点では連番で54個あったと思います
 ### E2E
 - correct内のpythonファイルを動かして、tsvファイルを作成
 - event1内のfirst_event内のpythonファイルを動かして、txtファイルを取得
