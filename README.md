@@ -10,11 +10,11 @@
 
 
 ### E2E
-- correct内のpythonファイルを動かして、txvファイルを作成
+- correct内のpythonファイルを動かして、tsvファイルを作成
 - event1内のfirst_event内のpythonファイルを動かして、txtファイルを取得
 - event1内のsecond_event内のpythonファイルを動かして、txtファイルを取得
 - event2内も上記と同様
-- evento_toevent.Rを動かして、input内のようなtsvファイルを作成
+- evento_to_event.Rを動かして、input内のようなtsvファイルを作成
 
   これは今まで作ってきたファイルをそれぞれ合体させた感じ
 
