@@ -1,24 +1,32 @@
 # time_prepro
 
-# 想定
-- BCCWJ-TIMEXを使用
+# 手順
+(思いの外覚えていなかったので、ざっくりとした説明になると思います)
+わからない部分ががあったら、遠慮なく聞いてください
 
-# ディレクトリ
 ## time_conll
 ### DCT
-- xml_dct.py
+
 
 ### E2E
-#### correct
-- e2e.pyで54個のtsvファイルを作成
-- 54回実行する→ここは人力
-## BCCWJ-TIMEX
-- *.xmlファイルが格納
-- 浅原先生がGoogle Driveにデータを時々更新しているので、もしかしたらこのファイルは古いかもしれません
-- とりあえずupしておきます
+- correct内のpythonファイルを動かして、txvファイルを作成
+- event1内のfirst_event内のpythonファイルを動かして、txtファイルを取得
+- event1内のsecond_event内のpythonファイルを動かして、txtファイルを取得
+- event2内も上記と同様
+- evento_toevent.Rを動かして、input内のようなtsvファイルを作成
 
-##
--
+  これは今まで作ってきたファイルをそれぞれ合体させた感じ
 
-## 手順
--
+- all_combine_e2e.Rを動かして、54個すべてのファイルを結合
+
+  all_e2e.tsvという全部の情報がまとまったファイルができる
+
+### MAT
+E2Eとほば同じ
+
+### T2E
+E2Eとほぼ同じ
+
+### DCT
+- xml_dct.pyを動かして、イベントidを取得
+- もしかしたらこのままだと、イベントidだけ取得になってるかもしれない
