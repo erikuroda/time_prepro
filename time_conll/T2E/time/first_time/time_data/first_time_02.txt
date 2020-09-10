@@ -1,0 +1,50 @@
+sent_id = A002n_PN1d_00001-1	
+sent_id = A002n_PN1d_00001-2	
+sent_id = A002n_PN1d_00001-3	
+sent_id = A002n_PN1d_00001-4	
+sent_id = A002n_PN1d_00001-5	
+sent_id = A002n_PN1d_00001-6	
+sent_id = A002n_PN1d_00001-7	
+sent_id = A002n_PN1d_00001-8	
+sent_id = A002n_PN1d_00001-9	
+sent_id = A002n_PN1d_00001-10	
+sent_id = A002n_PN1d_00001-11	
+sent_id = A002n_PN1d_00001-12	
+sent_id = A002n_PN1d_00001-13	
+23	６	t1
+sent_id = A002n_PN1d_00001-14	
+20	６	t2
+sent_id = A002n_PN1d_00001-15	
+sent_id = A002n_PN1d_00001-16	
+sent_id = A002n_PN1d_00001-17	
+sent_id = A002n_PN1d_00001-18	
+sent_id = A002n_PN1d_00001-19	
+sent_id = A002n_PN1d_00001-20	
+sent_id = A002n_PN1d_00001-21	
+sent_id = A002n_PN1d_00001-22	
+sent_id = A002n_PN1d_00001-23	
+sent_id = A002n_PN1d_00001-24	
+sent_id = A002n_PN1d_00001-25	
+5	初	
+sent_id = A002n_PN1d_00001-26	
+2	昨年	t3
+27	二十	t4
+sent_id = A002n_PN1d_00001-27	
+2	一	t5
+8	当初	
+13	初	t6
+26	二	t7
+sent_id = A002n_PN1d_00001-28	
+sent_id = A002n_PN1d_00001-29	
+sent_id = A002n_PN1d_00001-30	
+2	今年	t8
+16	当初	
+sent_id = A002n_PN1d_00001-31	
+sent_id = A002n_PN1d_00001-32	
+5	一	t9
+sent_id = A002n_PN1d_00001-33	
+6	当初	
+8	数	t10
+22	今月	t11
+31	初	t12
+sent_id = A002n_PN1d_00001-34	

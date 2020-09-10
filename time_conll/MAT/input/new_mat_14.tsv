@@ -1,0 +1,15 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A014n_PN1b_00002-3	48	分かっ	e4	48	分かっ	root1	A014n_PN1b_00002-4	16	なっ	e6	16	なっ	root2	after
+A014n_PN1b_00002-4	16	なっ	e6	16	なっ	root1	A014n_PN1b_00002-5	2	受け入れ	e7	34	増	root2	after
+A014n_PN1b_00002-18	3	募集	e12	4	し	root1	A014n_PN1b_00002-19	38	お	e14	40	下さい	root2	equal
+A014n_PN1b_00002-25	41	判断	e20	42	する	root1	A014n_PN1b_00002-26	12	注目	e21	13	さ	root2	after
+A014n_PN1b_00002-26	12	注目	e21	13	さ	root1	A014n_PN1b_00002-27	35	行っ	e24	35	行っ	root2	after
+A014n_PN1b_00002-27	35	行っ	e24	35	行っ	root1	A014n_PN1b_00002-28	36	なっ	e29	36	なっ	root2	during
+A014n_PN1b_00002-28	36	なっ	e29	36	なっ	root1	A014n_PN1b_00002-29	19	露呈	e32	20	さ	root2	contains
+A014n_PN1b_00002-29	19	露呈	e32	20	さ	root1	A014n_PN1b_00002-30	27	続い	e33	27	続い	root2	during
+A014n_PN1b_00002-30	27	続い	e33	27	続い	root1	A014n_PN1b_00002-31	41	確保	e38	42	し	root2	equal
+A014n_PN1b_00002-31	41	確保	e38	42	し	root1	A014n_PN1b_00002-32	30	流動	e41	32	する	root2	before
+A014n_PN1b_00002-33	18	なる	e43	24	なら	root1	A014n_PN1b_00002-34	18	考え	e46	18	考え	root2	after
+A014n_PN1b_00002-34	18	考え	e46	18	考え	root1	A014n_PN1b_00002-35	18	重要	e47	20	さ	root2	during
+A014n_PN1b_00002-35	18	重要	e47	20	さ	root1	A014n_PN1b_00002-36	33	し	e48	41	力説	root2	contains
+A014n_PN1b_00002-37	34	了承	e52	35	さ	root1	A014n_PN1b_00002-38	47	割り込む	e58	47	割り込む	root2	after

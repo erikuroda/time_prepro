@@ -1,0 +1,14 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A049n_PN1e_00004-7	8	当たり	e9	15	押し出し	root1	A049n_PN1e_00004-8	4	寄せ付け	e11	4	寄せ付け	root2	before
+A049n_PN1e_00004-8	4	寄せ付け	e11	4	寄せ付け	root1	A049n_PN1e_00004-9	7	思っ	e14	7	思っ	root2	after
+A049n_PN1e_00004-9	7	思っ	e14	7	思っ	root1	A049n_PN1e_00004-10	6	出	e15	6	出	root2	during
+A049n_PN1e_00004-14	28	物	e19	29	足り	root1	A049n_PN1e_00004-15	16	なっ	e21	16	なっ	root2	before
+A049n_PN1e_00004-15	16	なっ	e21	16	なっ	root1	A049n_PN1e_00004-16	25	臨め	e24	25	臨め	root2	before
+A049n_PN1e_00004-23	10	続い	e30	20	快勝	root1	A049n_PN1e_00004-24	18	押し出し	e37	18	押し出し	root2	before
+A049n_PN1e_00004-24	18	押し出し	e37	18	押し出し	root1	A049n_PN1e_00004-25	12	なっ	e40	12	なっ	root2	after
+A049n_PN1e_00004-32	27	上がら	e45	32	苦笑い	root1	A049n_PN1e_00004-33	18	いう	e48	18	いう	root2	before
+A049n_PN1e_00004-33	18	いう	e48	18	いう	root1	A049n_PN1e_00004-34	6	なくなる	e49	6	なくなる	root2	before
+A049n_PN1e_00004-34	6	なくなる	e49	6	なくなる	root1	A049n_PN1e_00004-35	3	頑張り	e50	3	頑張り	root2	during
+A049n_PN1e_00004-39	26	発表	e51	27	し	root1	A049n_PN1e_00004-40	70	パス	e57	71	し	root2	after
+A049n_PN1e_00004-50	45	伸ばし	e61	45	伸ばし	root1	A049n_PN1e_00004-51	32	出場	e64	33	し	root2	after
+A049n_PN1e_00004-54	32	引き分け	e67	32	引き分け	root1	A049n_PN1e_00004-55	33	終わっ	e71	33	終わっ	root2	equal

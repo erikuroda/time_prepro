@@ -1,0 +1,9 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A044n_PN5b_00003-5	12	６	t1	A044n_PN5b_00003-5	34	付け	e1	contains
+A044n_PN5b_00003-5	28	５	t2	A044n_PN5b_00003-5	34	付け	e1	contains
+A044n_PN5b_00003-11	5	２	t4	A044n_PN5b_00003-11	31	増え	e16	contains
+A044n_PN5b_00003-11	5	２	t4	A044n_PN5b_00003-11	55	減っ	e18	contains
+A044n_PN5b_00003-13	18	３	t5	A044n_PN5b_00003-13	26	批判	e23	contains
+A044n_PN5b_00003-30	6	３	t9	A044n_PN5b_00003-30	2	いう	e71	before
+A044n_PN5b_00003-30	6	３	t9	A044n_PN5b_00003-30	15	転職	e72	contains
+A044n_PN5b_00003-30	6	３	t9	A044n_PN5b_00003-30	18	き	e73	contains

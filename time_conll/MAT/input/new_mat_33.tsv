@@ -1,0 +1,12 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A033n_PN1b_00003-3	21	調査	e3	22	する	root1	A033n_PN1b_00003-4	23	調べる	e5	23	調べる	root2	contains
+A033n_PN1b_00003-7	39	取る	e9	39	取る	root1	A033n_PN1b_00003-8	30	告げる	e14	30	告げる	root2	before
+A033n_PN1b_00003-13	3	見	e16	8	肌	root1	A033n_PN1b_00003-14	1	乾燥	e17	8	砂漠	root2	after
+A033n_PN1b_00003-14	1	乾燥	e17	8	砂漠	root1	A033n_PN1b_00003-15	9	生え	e19	11	し	root2	before
+A033n_PN1b_00003-15	9	生え	e19	11	し	root1	A033n_PN1b_00003-16	6	うつる	e21	6	うつる	root2	vague
+A033n_PN1b_00003-18	46	続い	e29	68	と	root1	A033n_PN1b_00003-18	53	生き	e30	68	と	root2	during
+A033n_PN1b_00003-18	53	生き	e30	68	と	root1	A033n_PN1b_00003-18	65	行け	e32	68	と	root2	contains
+A033n_PN1b_00003-19	33	一致	e35	36	物語	root1	A033n_PN1b_00003-20	43	求め	e41	53	内容	root2	vague
+A033n_PN1b_00003-20	43	求め	e41	53	内容	root1	A033n_PN1b_00003-21	11	担当	e45	18	ディレクター	root2	after
+A033n_PN1b_00003-33	21	与える	e56	21	与える	root1	A033n_PN1b_00003-34	14	見つかっ	e57	26	話	root2	contains
+A033n_PN1b_00003-34	14	見つかっ	e57	26	話	root1	A033n_PN1b_00003-35	21	なれる	e59	25	病気	root2	before

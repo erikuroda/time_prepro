@@ -1,0 +1,16 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A017n_PN1f_00002-3	46	き	e3	46	き	root1	A017n_PN1f_00002-4	49	運ば	e8	49	運ば	root2	before
+A017n_PN1f_00002-6	40	立っ	e14	40	立っ	root1	A017n_PN1f_00002-7	19	刺し	e17	19	刺し	root2	before
+A017n_PN1f_00002-7	19	刺し	e17	19	刺し	root1	A017n_PN1f_00002-8	23	調べ	e20	23	調べ	root2	before
+A017n_PN1f_00002-8	23	調べ	e20	23	調べ	root1	A017n_PN1f_00002-9	6	踏み倒す	e22	6	踏み倒す	root2	vague
+A017n_PN1f_00002-11	55	負っ	e25	55	負っ	root1	A017n_PN1f_00002-12	23	追っ	e29	23	追っ	root2	before
+A017n_PN1f_00002-14	9	着	e31	9	着	root1	A017n_PN1f_00002-15	4	殺し	e32	8	自首	root2	after
+A017n_PN1f_00002-17	62	逮捕	e35	63	し	root1	A017n_PN1f_00002-18	22	急い	e37	22	急い	root2	before
+A017n_PN1f_00002-18	22	急い	e37	22	急い	root1	A017n_PN1f_00002-19	49	捨て	e39	51	疑い	root2	after
+A017n_PN1f_00002-19	49	捨て	e39	51	疑い	root1	A017n_PN1f_00002-20	24	き	e41	24	き	root2	before
+A017n_PN1f_00002-21	24	捨て	e44	59	し	root1	A017n_PN1f_00002-21	39	自首	e48	59	し	root2	before
+A017n_PN1f_00002-21	39	自首	e48	59	し	root1	A017n_PN1f_00002-21	58	追及	e51	59	し	root2	before
+A017n_PN1f_00002-21	58	追及	e51	59	し	root1	A017n_PN1f_00002-22	36	出さ	e54	36	出さ	root2	after
+A017n_PN1f_00002-22	36	出さ	e54	36	出さ	root1	A017n_PN1f_00002-23	25	離婚	e55	26	し	root2	after
+A017n_PN1f_00002-25	51	焼い	e57	51	焼い	root1	A017n_PN1f_00002-26	37	積ん	e58	46	出火	root2	during
+A017n_PN1f_00002-27	9	焦がし	e60	9	焦がし	root1	A017n_PN1f_00002-28	16	隣接	e61	41	出火	root2	during

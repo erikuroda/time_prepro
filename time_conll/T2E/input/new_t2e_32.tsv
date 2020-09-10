@@ -1,0 +1,7 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A032n_PN5c_00002-9	3	４	t2	A032n_PN5c_00002-9	10	演出	e14	contains
+A032n_PN5c_00002-10	6	７	t3	A032n_PN5c_00002-10	13	抜き去り	e15	before
+A032n_PN5c_00002-10	6	７	t3	A032n_PN5c_00002-10	29	込め	e18	contains
+A032n_PN5c_00002-10	6	７	t3	A032n_PN5c_00002-10	37	浮き立た	e20	before
+A032n_PN5c_00002-18	3	３	t4	A032n_PN5c_00002-18	7	過ぎ	e50	equal
+A032n_PN5c_00002-18	3	３	t4	A032n_PN5c_00002-18	25	響い	e52	before

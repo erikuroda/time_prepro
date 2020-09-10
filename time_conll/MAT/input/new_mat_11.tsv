@@ -1,0 +1,15 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A011n_PN4f_00001-6	66	奪っ	e5	68	逃走	root1	A011n_PN4f_00001-7	18	一	e8	23	し	root2	before
+A011n_PN4f_00001-7	18	一	e8	23	し	root1	A011n_PN4f_00001-8	26	確認	e12	27	さ	root2	before
+A011n_PN4f_00001-8	26	確認	e12	27	さ	root1	A011n_PN4f_00001-9	22	捜査	e14	23	し	root2	before
+A011n_PN4f_00001-9	22	捜査	e14	23	し	root1	A011n_PN4f_00001-10	50	み	e19	50	み	root2	contains
+A011n_PN4f_00001-12	24	話し	e22	24	話し	root1	A011n_PN4f_00001-13	34	調べる	e28	34	調べる	root2	before
+A011n_PN4f_00001-22	49	逮捕	e39	50	し	root1	A011n_PN4f_00001-23	26	いう	e43	26	いう	root2	before
+A011n_PN4f_00001-23	26	いう	e43	26	いう	root1	A011n_PN4f_00001-24	57	殺害	e46	60	疑い	root2	after
+A011n_PN4f_00001-25	13	死亡	e49	14	し	root1	A011n_PN4f_00001-26	31	一	e53	35	し	root2	after
+A011n_PN4f_00001-30	5	経	e54	11	分	root1	A011n_PN4f_00001-31	74	分かっ	e60	74	分かっ	root2	before
+A011n_PN4f_00001-31	74	分かっ	e60	74	分かっ	root1	A011n_PN4f_00001-32	50	立件	e63	52	方針	root2	before
+A011n_PN4f_00001-32	50	立件	e63	52	方針	root1	A011n_PN4f_00001-33	23	調べる	e64	29	実施	root2	after
+A011n_PN4f_00001-33	23	調べる	e64	29	実施	root1	A011n_PN4f_00001-34	16	さ	e66	25	外	root2	before
+A011n_PN4f_00001-34	16	さ	e66	25	外	root1	A011n_PN4f_00001-35	36	み	e71	36	み	root2	before
+A011n_PN4f_00001-35	36	み	e71	36	み	root1	A011n_PN4f_00001-36	56	持た	e76	56	持た	root2	during

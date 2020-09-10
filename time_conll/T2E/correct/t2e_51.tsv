@@ -1,0 +1,16 @@
+time_id	event_id	reltype
+t1	e32	contains
+t2	e32	contains
+t3	e73	contains
+t3	e74	contains
+t5	e73	overlaps
+t5	e74	after
+t6	e73	overlapped-by
+t6	e74	after
+t8	e75	contains
+t8	e76	contains
+tnew1	e80	contains
+tnew1	e81	contains
+t11	e100	during
+t11	e101	during
+t11	e103	equal

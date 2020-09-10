@@ -1,0 +1,14 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A018n_PN1g_00002-4	17	二十	t3	A018n_PN1g_00002-4	26	共同	e1	before
+A018n_PN1g_00002-4	17	二十	t3	A018n_PN1g_00002-4	32	合意	e2	contains
+A018n_PN1g_00002-5	17	二	t4	A018n_PN1g_00002-5	7	交わし	e3	after
+A018n_PN1g_00002-5	17	二	t4	A018n_PN1g_00002-5	29	生産	e4	contains
+A018n_PN1g_00002-5	24	年間	t5	A018n_PN1g_00002-5	29	生産	e4	contains
+A018n_PN1g_00002-6	5	〇	t6	A018n_PN1g_00002-6	12	強化	e5	contains
+A018n_PN1g_00002-6	5	〇	t6	A018n_PN1g_00002-6	24	分担	e7	after
+A018n_PN1g_00002-7	4	一	t7	A018n_PN1g_00002-7	19	合弁	e10	contains
+A018n_PN1g_00002-8	6	昨年	t8	A018n_PN1g_00002-8	16	交渉	e11	overlaps
+A018n_PN1g_00002-10	6	年間	t9	A018n_PN1g_00002-10	25	目指す	e13	vague
+A018n_PN1g_00002-19	2	九	t10	A018n_PN1g_00002-19	6	予定	e32	after
+A018n_PN1g_00002-19	2	九	t10	A018n_PN1g_00002-19	19	重視	e33	contains
+A018n_PN1g_00002-19	2	九	t10	A018n_PN1g_00002-19	30	異なっ	e34	overlaps

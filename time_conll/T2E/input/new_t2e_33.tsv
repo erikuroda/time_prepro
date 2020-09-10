@@ -1,0 +1,8 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A033n_PN1b_00003-15	1	一	t4	A033n_PN1b_00003-15	5	あげ	e18	contains
+A033n_PN1b_00003-18	1	５	t5	A033n_PN1b_00003-18	12	来	e24	before
+A033n_PN1b_00003-18	1	５	t5	A033n_PN1b_00003-18	21	なり	e26	before
+A033n_PN1b_00003-18	1	５	t5	A033n_PN1b_00003-18	40	切れ	e28	before
+A033n_PN1b_00003-18	1	５	t5	A033n_PN1b_00003-18	46	続い	e29	before
+A033n_PN1b_00003-50	10	１	t10	A033n_PN1b_00003-50	26	届ける	e68	before
+A033n_PN1b_00003-50	18	８	t11	A033n_PN1b_00003-50	26	届ける	e68	before

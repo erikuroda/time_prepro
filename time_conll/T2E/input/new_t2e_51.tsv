@@ -1,0 +1,14 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A051n_PN2d_00004-20	6	一	t1	A051n_PN2d_00004-20	23	作り	e32	contains
+A051n_PN2d_00004-20	13	二百	t2	A051n_PN2d_00004-20	23	作り	e32	contains
+A051n_PN2d_00004-36	2	今年	t3	A051n_PN2d_00004-36	8	かけ	e73	contains
+A051n_PN2d_00004-36	2	今年	t3	A051n_PN2d_00004-36	16	決まっ	e74	contains
+A051n_PN2d_00004-36	4	夏	t5	A051n_PN2d_00004-36	8	かけ	e73	overlaps
+A051n_PN2d_00004-36	4	夏	t5	A051n_PN2d_00004-36	16	決まっ	e74	after
+A051n_PN2d_00004-36	6	秋	t6	A051n_PN2d_00004-36	8	かけ	e73	overlapped-by
+A051n_PN2d_00004-36	6	秋	t6	A051n_PN2d_00004-36	16	決まっ	e74	after
+A051n_PN2d_00004-39	1	８	t8	A051n_PN2d_00004-39	7	開か	e75	contains
+A051n_PN2d_00004-39	1	８	t8	A051n_PN2d_00004-39	21	使っ	e76	contains
+A051n_PN2d_00004-54	7	最近	t11	A051n_PN2d_00004-54	12	宣告	e100	during
+A051n_PN2d_00004-54	7	最近	t11	A051n_PN2d_00004-54	20	やわらげる	e101	during
+A051n_PN2d_00004-54	7	最近	t11	A051n_PN2d_00004-54	26	注目	e103	equal

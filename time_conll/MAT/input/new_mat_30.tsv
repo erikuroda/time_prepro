@@ -1,0 +1,15 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A030n_PN5a_00002-14	17	惜しむ	e5	19	会	root1	A030n_PN5a_00002-15	35	出演	e7	36	する	root2	contains
+A030n_PN5a_00002-19	15	募集	e8	16	し	root1	A030n_PN5a_00002-20	10	上演	e9	11	する	root2	before
+A030n_PN5a_00002-37	3	行っ	e14	8	対策	root1	A030n_PN5a_00002-38	19	あっ	e15	19	あっ	root2	after
+A030n_PN5a_00002-38	19	あっ	e15	19	あっ	root1	A030n_PN5a_00002-39	15	なっ	e18	15	なっ	root2	before
+A030n_PN5a_00002-39	15	なっ	e18	15	なっ	root1	A030n_PN5a_00002-40	36	見える	e21	36	見える	root2	contains
+A030n_PN5a_00002-40	36	見える	e21	36	見える	root1	A030n_PN5a_00002-41	59	活動	e26	60	し	root2	during
+A030n_PN5a_00002-41	59	活動	e26	60	し	root1	A030n_PN5a_00002-42	36	乗り出し	e27	36	乗り出し	root2	contains
+A030n_PN5a_00002-42	36	乗り出し	e27	36	乗り出し	root1	A030n_PN5a_00002-43	33	確立	e31	34	し	root2	contains
+A030n_PN5a_00002-43	33	確立	e31	34	し	root1	A030n_PN5a_00002-44	25	痛感	e34	26	し	root2	after
+A030n_PN5a_00002-44	25	痛感	e34	26	し	root1	A030n_PN5a_00002-45	22	利用	e36	29	こと	root2	before
+A030n_PN5a_00002-45	22	利用	e36	29	こと	root1	A030n_PN5a_00002-46	33	取り組ん	e39	33	取り組ん	root2	equal
+A030n_PN5a_00002-46	33	取り組ん	e39	33	取り組ん	root1	A030n_PN5a_00002-47	27	いう	e44	27	いう	root2	contains
+A030n_PN5a_00002-51	13	働い	e51	20	多い	root1	A030n_PN5a_00002-52	22	傾ける	e54	22	傾ける	root2	contains
+A030n_PN5a_00002-58	9	始まっ	e66	9	始まっ	root1	A030n_PN5a_00002-59	54	続落	e74	55	し	root2	before

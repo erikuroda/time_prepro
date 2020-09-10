@@ -1,0 +1,16 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A048n_PN1d_00004-4	101	棄却	e9	102	し	root1	A048n_PN1d_00004-5	13	出	e10	17	初めて	root2	identity
+A048n_PN1d_00004-5	13	出	e10	17	初めて	root1	A048n_PN1d_00004-6	60	負わ	e13	60	負わ	root2	after
+A048n_PN1d_00004-6	60	負わ	e13	60	負わ	root1	A048n_PN1d_00004-7	31	防ぐ	e17	45	警戒	root2	after
+A048n_PN1d_00004-7	31	防ぐ	e17	45	警戒	root1	A048n_PN1d_00004-8	31	かかわっ	e19	31	かかわっ	root2	before
+A048n_PN1d_00004-8	31	かかわっ	e19	31	かかわっ	root1	A048n_PN1d_00004-9	1	漂う	e20	4	香り	root2	before
+A048n_PN1d_00004-11	43	追わ	e23	47	写真	root1	A048n_PN1d_00004-12	7	通関	e24	34	空輸	root2	contains
+A048n_PN1d_00004-12	7	通関	e24	34	空輸	root1	A048n_PN1d_00004-13	22	移る	e27	22	移る	root2	before
+A048n_PN1d_00004-13	22	移る	e27	22	移る	root1	A048n_PN1d_00004-14	13	運ば	e28	13	運ば	root2	during
+A048n_PN1d_00004-14	13	運ば	e28	13	運ば	root1	A048n_PN1d_00004-15	38	いう	e32	38	いう	root2	contains
+A048n_PN1d_00004-22	39	通報	e39	40	し	root1	A048n_PN1d_00004-23	2	駆けつけ	e40	18	判断	root2	before
+A048n_PN1d_00004-23	2	駆けつけ	e40	18	判断	root1	A048n_PN1d_00004-24	20	求め	e42	20	求め	root2	before
+A048n_PN1d_00004-24	20	求め	e42	20	求め	root1	A048n_PN1d_00004-25	36	包ま	e46	36	包ま	root2	before
+A048n_PN1d_00004-25	36	包ま	e46	36	包ま	root1	A048n_PN1d_00004-26	21	見つかっ	e49	21	見つかっ	root2	contains
+A048n_PN1d_00004-28	27	一	e54	30	し	root1	A048n_PN1d_00004-29	17	み	e55	17	み	root2	before
+A048n_PN1d_00004-29	17	み	e55	17	み	root1	A048n_PN1d_00004-30	10	なっ	e58	10	なっ	root2	before

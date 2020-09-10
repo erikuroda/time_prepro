@@ -1,0 +1,10 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A003n_PN1e_00001-3	61	企画	e6	62	し	root1	A003n_PN1e_00001-4	40	楽しめる	e11	41	趣向	root2	before
+A003n_PN1e_00001-4	40	楽しめる	e11	41	趣向	root1	A003n_PN1e_00001-5	14	売り込ん	e14	14	売り込ん	root2	after
+A003n_PN1e_00001-16	14	取り組む	e17	16	市	root1	A003n_PN1e_00001-17	14	政治	e18	22	あいさつ	root2	vague
+A003n_PN1e_00001-22	27	発表	e20	28	し	root1	A003n_PN1e_00001-23	42	返り咲い	e23	42	返り咲い	root2	after
+A003n_PN1e_00001-23	42	返り咲い	e23	42	返り咲い	root1	A003n_PN1e_00001-24	54	なっ	e29	54	なっ	root2	equal
+A003n_PN1e_00001-24	54	なっ	e29	54	なっ	root1	A003n_PN1e_00001-25	63	健闘	e33	64	し	root2	equal
+A003n_PN1e_00001-25	63	健闘	e33	64	し	root1	A003n_PN1e_00001-26	13	申告	e35	39	増加	root2	after
+A003n_PN1e_00001-26	13	申告	e35	39	増加	root1	A003n_PN1e_00001-27	27	増加	e36	28	し	root2	before
+A003n_PN1e_00001-27	27	増加	e36	28	し	root1	A003n_PN1e_00001-28	23	取り組ん	e37	23	取り組ん	root2	after

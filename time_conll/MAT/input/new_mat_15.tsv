@@ -1,0 +1,13 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A015n_PN1d_00002-2	54	転じ	e4	54	転じ	root1	A015n_PN1d_00002-3	21	増え	e7	25	主因	root2	after
+A015n_PN1d_00002-3	21	増え	e7	25	主因	root1	A015n_PN1d_00002-4	8	集計	e8	24	一	root2	before
+A015n_PN1d_00002-10	42	開発	e18	43	し	root1	A015n_PN1d_00002-11	11	商品	e19	13	する	root2	before
+A015n_PN1d_00002-11	11	商品	e19	13	する	root1	A015n_PN1d_00002-12	30	解析	e23	32	仕組み	root2	vague
+A015n_PN1d_00002-12	30	解析	e23	32	仕組み	root1	A015n_PN1d_00002-13	25	いう	e27	25	いう	root2	vague
+A015n_PN1d_00002-13	25	いう	e27	25	いう	root1	A015n_PN1d_00002-14	11	下げ	e28	11	下げ	root2	before
+A015n_PN1d_00002-14	11	下げ	e28	11	下げ	root1	A015n_PN1d_00002-15	43	発表	e32	44	し	root2	after
+A015n_PN1d_00002-15	43	発表	e32	44	し	root1	A015n_PN1d_00002-16	5	実施	e33	6	する	root2	before
+A015n_PN1d_00002-16	5	実施	e33	6	する	root1	A015n_PN1d_00002-17	18	更新	e34	19	する	root2	equal
+A015n_PN1d_00002-19	54	増加	e36	55	し	root1	A015n_PN1d_00002-20	14	推移	e40	15	し	root2	after
+A015n_PN1d_00002-20	14	推移	e40	15	し	root1	A015n_PN1d_00002-21	3	発表	e41	36	微増	root2	before
+A015n_PN1d_00002-24	41	発表	e48	42	し	root1	A015n_PN1d_00002-25	22	かから	e52	22	かから	root2	before

@@ -1,0 +1,15 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A034n_PN1d_00003-3	53	分かっ	e5	53	分かっ	root1	A034n_PN1d_00003-4	24	告訴	e8	25	し	root2	after
+A034n_PN1d_00003-4	24	告訴	e8	25	し	root1	A034n_PN1d_00003-5	37	刑事	e11	39	さ	root2	identity
+A034n_PN1d_00003-7	21	チェック	e13	25	日	root1	A034n_PN1d_00003-8	30	わかっ	e17	30	わかっ	root2	before
+A034n_PN1d_00003-11	40	通報	e21	41	し	root1	A034n_PN1d_00003-12	79	入っ	e28	79	入っ	root2	before
+A034n_PN1d_00003-13	14	ない	e31	39	いう	root1	A034n_PN1d_00003-13	17	いえ	e32	39	いう	root2	contains
+A034n_PN1d_00003-13	17	いえ	e32	39	いう	root1	A034n_PN1d_00003-13	20	疲れ	e33	39	いう	root2	during
+A034n_PN1d_00003-13	20	疲れ	e33	39	いう	root1	A034n_PN1d_00003-13	39	いう	e37	39	いう	root2	before
+A034n_PN1d_00003-14	17	み	e39	17	み	root1	A034n_PN1d_00003-15	45	判明	e41	46	し	root2	contains
+A034n_PN1d_00003-15	45	判明	e41	46	し	root1	A034n_PN1d_00003-16	32	出	e44	32	出	root2	after
+A034n_PN1d_00003-16	32	出	e44	32	出	root1	A034n_PN1d_00003-17	12	話し	e46	12	話し	root2	before
+A034n_PN1d_00003-21	36	し	e49	65	逮捕	root1	A034n_PN1d_00003-22	30	逮捕	e50	31	し	root2	before
+A034n_PN1d_00003-22	30	逮捕	e50	31	し	root1	A034n_PN1d_00003-23	76	だまし取っ	e55	78	疑い	root2	after
+A034n_PN1d_00003-27	8	経	e56	29	デビュー	root1	A034n_PN1d_00003-28	10	呼ん	e58	10	呼ん	root2	before
+A034n_PN1d_00003-28	10	呼ん	e58	10	呼ん	root1	A034n_PN1d_00003-29	16	出演	e60	17	し	root2	before

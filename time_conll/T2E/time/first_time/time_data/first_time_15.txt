@@ -1,0 +1,59 @@
+sent_id = A015n_PN1d_00002-1	
+6	３	
+sent_id = A015n_PN1d_00002-2	
+5	９	t1
+10	４	t2
+32	前月	t3
+48	３	t4
+sent_id = A015n_PN1d_00002-3	
+sent_id = A015n_PN1d_00002-4	
+18	１	t5
+sent_id = A015n_PN1d_00002-5	
+sent_id = A015n_PN1d_00002-6	
+sent_id = A015n_PN1d_00002-7	
+16	８	t6
+47	１	t7
+65	１	t8
+sent_id = A015n_PN1d_00002-8	
+sent_id = A015n_PN1d_00002-9	
+sent_id = A015n_PN1d_00002-10	
+5	９	t9
+13	１	t10
+sent_id = A015n_PN1d_00002-11	
+6	今年	t11
+sent_id = A015n_PN1d_00002-12	
+sent_id = A015n_PN1d_00002-13	
+sent_id = A015n_PN1d_00002-14	
+sent_id = A015n_PN1d_00002-15	
+6	９	t12
+34	年	
+sent_id = A015n_PN1d_00002-16	
+1	１	t13
+sent_id = A015n_PN1d_00002-17	
+5	今年	t14
+9	４	t15
+14	過去	
+sent_id = A015n_PN1d_00002-18	
+5	３	t16
+sent_id = A015n_PN1d_00002-19	
+8	９	t17
+13	２	t18
+28	前	
+50	３	t19
+sent_id = A015n_PN1d_00002-20	
+sent_id = A015n_PN1d_00002-21	
+6	３	t20
+28	前年	t21
+sent_id = A015n_PN1d_00002-22	
+sent_id = A015n_PN1d_00002-23	
+sent_id = A015n_PN1d_00002-24	
+5	９	t22
+34	５	t23
+sent_id = A015n_PN1d_00002-25	
+sent_id = A015n_PN1d_00002-26	
+sent_id = A015n_PN1d_00002-27	
+13	８	t24
+16	今年	t25
+31	前年	
+sent_id = A015n_PN1d_00002-28	
+1	昨年	t26

@@ -1,0 +1,11 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A002n_PN1d_00001-3	9	寄り添う	e2	13	キジバト	root1	A002n_PN1d_00001-4	4	とじ	e3	13	スナップ	root2	contains
+A002n_PN1d_00001-4	4	とじ	e3	13	スナップ	root1	A002n_PN1d_00001-5	30	移っ	e8	30	移っ	root2	equal
+A002n_PN1d_00001-5	30	移っ	e8	30	移っ	root1	A002n_PN1d_00001-6	44	なり	e16	44	なり	root2	before
+A002n_PN1d_00001-6	44	なり	e16	44	なり	root1	A002n_PN1d_00001-7	13	出会っ	e18	16	石像	root2	vague
+A002n_PN1d_00001-7	13	出会っ	e18	16	石像	root1	A002n_PN1d_00001-8	32	取れ	e23	33	そう	root2	before
+A002n_PN1d_00001-8	32	取れ	e23	33	そう	root1	A002n_PN1d_00001-9	17	眠る	e25	18	ニャンコ	root2	vague
+A002n_PN1d_00001-20	6	掲載	e34	7	さ	root1	A002n_PN1d_00001-21	65	贈り	e36	65	贈り	root2	before
+A002n_PN1d_00001-26	34	突破	e39	35	し	root1	A002n_PN1d_00001-27	38	し	e44	38	し	root2	vague
+A002n_PN1d_00001-32	8	利用	e49	31	件	root1	A002n_PN1d_00001-33	53	いう	e54	53	いう	root2	before
+A002n_PN1d_00001-33	53	いう	e54	53	いう	root1	A002n_PN1d_00001-34	35	手渡さ	e56	35	手渡さ	root2	vague

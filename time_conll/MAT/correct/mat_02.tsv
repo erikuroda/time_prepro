@@ -1,0 +1,11 @@
+event1_id	event2_id	reltype
+e2	e3	contains
+e3	e8	equal
+e8	e16	before
+e16	e18	vague
+e18	e23	before
+e23	e25	vague
+e34	e36	before
+e39	e44	vague
+e49	e54	before
+e54	e56	vague

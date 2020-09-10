@@ -1,0 +1,12 @@
+time_id	event_id	reltype
+t2	e1	contains
+t2	e4	before
+t2	e6	contains
+t3	e1	after
+t3	e2	vague
+t3	e3	vague
+t3	e6	after
+t4	e13	before
+t4	e14	overlaps
+t8	e51	contains
+t9	e51	contains

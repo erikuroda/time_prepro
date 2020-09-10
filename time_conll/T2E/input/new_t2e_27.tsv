@@ -1,0 +1,10 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A027n_PN3e_00002-3	2	２	t1	A027n_PN3e_00002-3	10	消費	e1	contains
+A027n_PN3e_00002-4	17	前	t2	A027n_PN3e_00002-4	26	減っ	e2	before
+A027n_PN3e_00002-13	8	今春	t3	A027n_PN3e_00002-13	3	受け	e16	contains
+A027n_PN3e_00002-13	8	今春	t3	A027n_PN3e_00002-13	11	卒業	e17	contains
+A027n_PN3e_00002-21	15	十	t4	A027n_PN3e_00002-21	10	開い	e30	after
+A027n_PN3e_00002-21	15	十	t4	A027n_PN3e_00002-21	20	合わせ	e31	after
+A027n_PN3e_00002-21	15	十	t4	A027n_PN3e_00002-21	22	募集	e32	after
+A027n_PN3e_00002-21	15	十	t4	A027n_PN3e_00002-21	37	発表	e33	contains
+A027n_PN3e_00002-22	21	四	t5	A027n_PN3e_00002-22	34	選ば	e34	contains

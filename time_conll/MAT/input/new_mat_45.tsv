@@ -1,0 +1,12 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A045n_PN5c_00003-8	25	通じる	e11	25	通じる	root1	A045n_PN5c_00003-9	4	計算	e12	5	し	root2	vague
+A045n_PN5c_00003-11	39	果たし	e15	39	果たし	root1	A045n_PN5c_00003-12	18	出し	e17	29	秒	root2	met-by
+A045n_PN5c_00003-12	18	出し	e17	29	秒	root1	A045n_PN5c_00003-13	17	走っ	e19	17	走っ	root2	vague
+A045n_PN5c_00003-13	17	走っ	e19	17	走っ	root1	A045n_PN5c_00003-14	19	計算	e21	20	し	root2	equal
+A045n_PN5c_00003-16	18	走っ	e22	24	キロ・メートル	root1	A045n_PN5c_00003-17	13	かかっ	e24	17	こと	root2	equal
+A045n_PN5c_00003-17	13	かかっ	e24	17	こと	root1	A045n_PN5c_00003-18	6	かかっ	e26	24	なり	root2	equal
+A045n_PN5c_00003-18	6	かかっ	e26	24	なり	root1	A045n_PN5c_00003-19	8	優勝	e28	15	目	root2	before
+A045n_PN5c_00003-19	8	優勝	e28	15	目	root1	A045n_PN5c_00003-20	25	達成	e30	28	楽しみ	root2	before
+A045n_PN5c_00003-30	7	始まり	e49	7	始まり	root1	A045n_PN5c_00003-31	27	取り組み	e54	27	取り組み	root2	after
+A045n_PN5c_00003-34	11	入り	e56	11	入り	root1	A045n_PN5c_00003-35	16	作っ	e58	16	作っ	root2	after
+A045n_PN5c_00003-39	59	分かっ	e62	59	分かっ	root1	A045n_PN5c_00003-40	75	参加	e67	76	し	root2	after

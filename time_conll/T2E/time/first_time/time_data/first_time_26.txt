@@ -1,0 +1,34 @@
+sent_id = A026n_PN3d_00002-1	
+sent_id = A026n_PN3d_00002-2	
+sent_id = A026n_PN3d_00002-3	
+sent_id = A026n_PN3d_00002-4	
+sent_id = A026n_PN3d_00002-5	
+33	九	t1
+sent_id = A026n_PN3d_00002-6	
+8	前日	t2
+10	八	t3
+26	二	t4
+54	四	t5
+75	今後	t6
+sent_id = A026n_PN3d_00002-7	
+4	同日	t7
+sent_id = A026n_PN3d_00002-8	
+13	同日	t8
+sent_id = A026n_PN3d_00002-9	
+sent_id = A026n_PN3d_00002-10	
+10	先週	
+24	昨年	t9
+sent_id = A026n_PN3d_00002-11	
+sent_id = A026n_PN3d_00002-12	
+9	先週	
+sent_id = A026n_PN3d_00002-13	
+15	同日	t10
+sent_id = A026n_PN3d_00002-14	
+16	同日	t11
+sent_id = A026n_PN3d_00002-15	
+15	同日	t12
+sent_id = A026n_PN3d_00002-16	
+12	先週	
+sent_id = A026n_PN3d_00002-17	
+sent_id = A026n_PN3d_00002-18	
+12	九	t13

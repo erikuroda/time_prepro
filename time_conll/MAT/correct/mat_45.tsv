@@ -1,0 +1,12 @@
+event1_id	event2_id	reltype
+e11	e12	vague
+e15	e17	met-by
+e17	e19	vague
+e19	e21	equal
+e22	e24	equal
+e24	e26	equal
+e26	e28	before
+e28	e30	before
+e49	e54	after
+e56	e58	after
+e62	e67	after

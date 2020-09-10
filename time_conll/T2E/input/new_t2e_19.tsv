@@ -1,0 +1,12 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A019n_PN2b_00002-3	8	２	t2	A019n_PN2b_00002-3	17	あっ	e1	contains
+A019n_PN2b_00002-3	8	２	t2	A019n_PN2b_00002-3	63	まとめる	e4	before
+A019n_PN2b_00002-3	8	２	t2	A019n_PN2b_00002-3	68	し	e6	contains
+A019n_PN2b_00002-3	54	２	t3	A019n_PN2b_00002-3	17	あっ	e1	after
+A019n_PN2b_00002-3	54	２	t3	A019n_PN2b_00002-3	35	分かち合う	e2	vague
+A019n_PN2b_00002-3	54	２	t3	A019n_PN2b_00002-3	40	確保	e3	vague
+A019n_PN2b_00002-3	54	２	t3	A019n_PN2b_00002-3	68	し	e6	after
+A019n_PN2b_00002-5	8	先月	t4	A019n_PN2b_00002-5	28	検討	e13	before
+A019n_PN2b_00002-5	8	先月	t4	A019n_PN2b_00002-5	32	明記	e14	overlaps
+A019n_PN2b_00002-31	6	８	t8	A019n_PN2b_00002-31	10	亡くなっ	e51	contains
+A019n_PN2b_00002-31	14	１	t9	A019n_PN2b_00002-31	10	亡くなっ	e51	contains

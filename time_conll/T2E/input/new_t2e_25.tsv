@@ -1,0 +1,13 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	25	向け	e13	during
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	32	役立つ	e14	before
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	35	述べ	e15	contains
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	45	組ん	e16	after
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	55	積極	e17	before
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	62	整っ	e18	during
+A025n_PN3c_00002-8	6	十	t1	A025n_PN3c_00002-8	68	強調	e19	contains
+A025n_PN3c_00002-19	1	８	t3	A025n_PN3c_00002-19	21	合意	e35	overlaps
+A025n_PN3c_00002-19	6	２	t4	A025n_PN3c_00002-19	21	合意	e35	contains
+A025n_PN3c_00002-22	9	十	t5	A025n_PN3c_00002-22	24	話し合う	e45	before
+A025n_PN3c_00002-22	9	十	t5	A025n_PN3c_00002-22	28	開催	e46	before
+A025n_PN3c_00002-22	9	十	t5	A025n_PN3c_00002-22	36	提言	e47	before

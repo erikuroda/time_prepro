@@ -1,0 +1,13 @@
+time_sent_id	time_index	time_word	time_id	event_sent_id	event_index	event_word	event_id	reltype
+A042n_PN4g_00003-17	2	四	t3	A042n_PN4g_00003-17	9	なっ	e20	overlaps
+A042n_PN4g_00003-22	23	五	t4	A042n_PN4g_00003-22	6	読み	e30	after
+A042n_PN4g_00003-22	23	五	t4	A042n_PN4g_00003-22	10	相談	e31	after
+A042n_PN4g_00003-32	29	当時	t6	A042n_PN4g_00003-32	31	振り返る	e56	before
+A042n_PN4g_00003-54	8	十	t7	A042n_PN4g_00003-54	15	暮らし	e110	vague
+A042n_PN4g_00003-55	21	現在	t8	A042n_PN4g_00003-55	3	生き	e111	after
+A042n_PN4g_00003-55	21	現在	t8	A042n_PN4g_00003-55	15	考え	e113	after
+A042n_PN4g_00003-55	21	現在	t8	A042n_PN4g_00003-55	19	比べ	e114	contains
+A042n_PN4g_00003-55	21	現在	t8	A042n_PN4g_00003-55	27	落ち着い	e116	contains
+A042n_PN4g_00003-60	3	朝方	t9	A042n_PN4g_00003-60	5	続く	e124	vague
+A042n_PN4g_00003-60	3	朝方	t9	A042n_PN4g_00003-60	10	いう	e125	vague
+A042n_PN4g_00003-63	10	９	t11	A042n_PN4g_00003-63	8	経	e126	after

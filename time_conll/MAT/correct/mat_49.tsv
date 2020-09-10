@@ -1,0 +1,14 @@
+event1_id	event2_id	reltype
+e9	e11	before
+e11	e14	after
+e14	e15	during
+e19	e21	before
+e21	e24	before
+e30	e37	before
+e37	e40	after
+e45	e48	before
+e48	e49	before
+e49	e50	during
+e51	e57	after
+e61	e64	after
+e67	e71	equal

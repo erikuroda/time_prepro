@@ -1,0 +1,16 @@
+time_id	event_id	reltype
+t1	e1	contains
+t2	e2	before
+t3	e16	contains
+t3	e17	contains
+t4	e30	after
+t4	e31	after
+t4	e32	after
+t4	e33	contains
+t5	e34	contains
+tnew1	e42	contains
+tnew1	e43	before
+tnew1	e44	before
+tnew1	e46	before
+tnew2	e62	vague
+tnew2	e63	vague

@@ -1,0 +1,11 @@
+time_id	event_id	reltype
+tnew1	e9	contains
+tnew1	e10	contains
+tnew1	e12	contains
+tnew1	e13	before
+t2	e14	contains
+t3	e15	before
+t3	e18	contains
+t3	e20	before
+t4	e50	equal
+t4	e52	before

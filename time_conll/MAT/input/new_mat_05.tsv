@@ -1,0 +1,9 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A005n_PN2e_00001-4	38	始める	e2	38	始める	root1	A005n_PN2e_00001-5	6	放置	e3	15	目的	root2	after
+A005n_PN2e_00001-5	6	放置	e3	15	目的	root1	A005n_PN2e_00001-6	24	取り組む	e6	36	いう	root2	before
+A005n_PN2e_00001-7	30	引き渡す	e10	30	引き渡す	root1	A005n_PN2e_00001-8	16	負担	e11	17	する	root2	before
+A005n_PN2e_00001-9	23	始める	e13	23	始める	root1	A005n_PN2e_00001-10	24	補助	e15	25	する	root2	before
+A005n_PN2e_00001-10	24	補助	e15	25	する	root1	A005n_PN2e_00001-11	49	放置	e19	50	さ	root2	after
+A005n_PN2e_00001-11	49	放置	e19	50	さ	root1	A005n_PN2e_00001-12	30	いう	e24	30	いう	root2	vague
+A005n_PN2e_00001-17	30	上っ	e30	30	上っ	root1	A005n_PN2e_00001-18	30	のしかかっ	e34	30	のしかかっ	root2	equal
+A005n_PN2e_00001-22	34	多い	e37	34	多い	root1	A005n_PN2e_00001-23	47	ある	e41	47	ある	root2	vague

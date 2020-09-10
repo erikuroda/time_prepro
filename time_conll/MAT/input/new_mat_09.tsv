@@ -1,0 +1,16 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A009n_PN4b_00001-3	61	勝利	e3	62	し	root1	A009n_PN4b_00001-4	3	倒す	e4	3	倒す	root2	before
+A009n_PN4b_00001-7	39	行っ	e7	39	行っ	root1	A009n_PN4b_00001-8	12	倒す	e8	12	倒す	root2	before
+A009n_PN4b_00001-8	12	倒す	e8	12	倒す	root1	A009n_PN4b_00001-9	28	上げ	e14	28	上げ	root2	after
+A009n_PN4b_00001-10	17	分裂	e16	45	批判	root1	A009n_PN4b_00001-10	36	弱ら	e19	45	批判	root2	during
+A009n_PN4b_00001-11	9	投資	e21	44	起き	root1	A009n_PN4b_00001-11	27	する	e24	44	起き	root2	vague
+A009n_PN4b_00001-11	27	する	e24	44	起き	root1	A009n_PN4b_00001-11	44	起き	e26	44	起き	root2	after
+A009n_PN4b_00001-11	44	起き	e26	44	起き	root1	A009n_PN4b_00001-12	58	批判	e28	59	し	root2	vague
+A009n_PN4b_00001-12	58	批判	e28	59	し	root1	A009n_PN4b_00001-13	17	勝利	e29	20	地域	root2	after
+A009n_PN4b_00001-13	17	勝利	e29	20	地域	root1	A009n_PN4b_00001-14	4	認める	e30	4	認める	root2	before
+A009n_PN4b_00001-18	62	求め	e38	62	求め	root1	A009n_PN4b_00001-19	42	み	e42	42	み	root2	before
+A009n_PN4b_00001-19	42	み	e42	42	み	root1	A009n_PN4b_00001-20	42	解消	e47	48	透明	root2	before
+A009n_PN4b_00001-20	42	解消	e47	48	透明	root1	A009n_PN4b_00001-21	47	いう	e55	47	いう	root2	after
+A009n_PN4b_00001-21	47	いう	e55	47	いう	root1	A009n_PN4b_00001-22	51	触れ	e60	51	触れ	root2	after
+A009n_PN4b_00001-22	51	触れ	e60	51	触れ	root1	A009n_PN4b_00001-23	47	み	e64	47	み	root2	before
+A009n_PN4b_00001-25	19	強調	e67	20	し	root1	A009n_PN4b_00001-26	39	残る	e69	39	残る	root2	during

@@ -1,0 +1,16 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A041n_PN3d_00003-3	35	退い	e2	35	退い	root1	A041n_PN3d_00003-4	13	診断	e3	14	さ	root2	before
+A041n_PN3d_00003-20	9	獲得	e15	10	し	root1	A041n_PN3d_00003-21	32	挙げ	e18	32	挙げ	root2	after
+A041n_PN3d_00003-21	32	挙げ	e18	32	挙げ	root1	A041n_PN3d_00003-22	18	目指す	e20	25	位	root2	during
+A041n_PN3d_00003-25	6	越え	e22	7	雪辱	root1	A041n_PN3d_00003-26	11	き	e25	11	き	root2	before
+A041n_PN3d_00003-28	12	敗れ	e27	12	敗れ	root1	A041n_PN3d_00003-29	8	あっ	e30	8	あっ	root2	before
+A041n_PN3d_00003-29	8	あっ	e30	8	あっ	root1	A041n_PN3d_00003-30	4	狙っ	e31	4	狙っ	root2	before
+A041n_PN3d_00003-32	29	回っ	e35	29	回っ	root1	A041n_PN3d_00003-33	19	実っ	e39	19	実っ	root2	before
+A041n_PN3d_00003-33	19	実っ	e39	19	実っ	root1	A041n_PN3d_00003-34	6	伸び	e40	9	プレー	root2	after
+A041n_PN3d_00003-34	6	伸び	e40	9	プレー	root1	A041n_PN3d_00003-35	7	あきらめ	e42	7	あきらめ	root2	before
+A041n_PN3d_00003-35	7	あきらめ	e42	7	あきらめ	root1	A041n_PN3d_00003-36	14	落とし	e44	14	落とし	root2	after
+A041n_PN3d_00003-41	17	飛び出し	e47	17	飛び出し	root1	A041n_PN3d_00003-42	23	逃げ	e50	24	きっ	root2	before
+A041n_PN3d_00003-44	11	続ける	e52	11	続ける	root1	A041n_PN3d_00003-45	25	発揮	e56	26	し	root2	contains
+A041n_PN3d_00003-45	25	発揮	e56	26	し	root1	A041n_PN3d_00003-46	25	いっ	e57	25	いっ	root2	vague
+A041n_PN3d_00003-46	25	いっ	e57	25	いっ	root1	A041n_PN3d_00003-47	6	いる	e58	6	いる	root2	during
+A041n_PN3d_00003-47	6	いる	e58	6	いる	root1	A041n_PN3d_00003-48	33	目指す	e62	33	目指す	root2	contains

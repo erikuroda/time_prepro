@@ -1,0 +1,81 @@
+---
+title: "all_combine_t2e"
+author: "Eri Kuroda"
+date: "6/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE)
+```
+# 1.xmlファイルから正解データ作成
+xmlファイルから読み込む。
+このときreltypeは3人中2人以上が正解しているものを選ぶ。
+```{r}
+library(tidyverse)
+dat1 = read_tsv("./correct/t2e_01.tsv")
+dat1
+```
+# 2.conllファイルからtime情報抽出
+conllファイルから2段階に分けて情報を抽出
+```{r}
+dat2 = read_tsv("./time/first_time/time_data/first_time_01.txt")
+dat2
+```
+そのあと、文idなどを1行で表示させる。
+```{r}
+dat3 = read_tsv("./time/second_time/second_data/new_time_01.tsv")
+dat3
+```
+
+# 3.conllファイルからevent情報抽出
+timeと同じ要領でeventに関しても情報を取ってくる
+```{r}
+dat4 = read_tsv("./event/first_event/event_data/first_event_01.txt")
+dat4
+```
+同様に1行表示させる。
+```{r}
+dat5 = read_tsv("./event/second_event/second_data/second_event_01.tsv")
+dat5
+```
+
+# 4.xmlファイルとconllファイルを結合させる
+
+```{r}
+dat11 = read_tsv("./correct/t2e_54.tsv")
+dat22 = read_tsv("./time/second_time/second_data/new_time_54.tsv")
+dat33 = read_tsv("./event/second_event/second_data/second_event_54.tsv")
+
+new_t = dat11 %>%
+  inner_join(dat22, by = "time_id")
+
+new_e = new_t %>%
+  inner_join(dat33, by = "event_id") %>%
+  select(
+    time_sent_id, 
+    time_index, 
+    time_word, 
+    time_id, 
+    event_sent_id, 
+    event_index, 
+    event_word, 
+    event_id, 
+    reltype)
+new_e
+#write_tsv(new_e, path = "./T2E/input/new_t2e_54.tsv")
+```
+
+# 5.全部のファイルを1つのファイルにまとめる
+inputファイルは全てできた
+あとはこれを1つのファイルにまとめればok
+
+```{r}
+lf = list.files(path = "input", full.names = TRUE)
+data = lapply(lf, read_tsv)
+data_bind = do.call(bind_rows, data)
+data_bind
+write_tsv(data_bind, path = "all_t2e.tsv")
+```
+

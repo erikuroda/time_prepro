@@ -1,0 +1,13 @@
+event1_sent_id	event1_index	event1_word	event1_id	root1_index	root1_word	root1	event2_sent_id	event2_index	event2_word	event2_id	root2_index	root2_word	root2	reltype
+A023n_PN2g_00002-3	4	割り込ん	e4	12	なる	root1	A023n_PN2g_00002-4	35	響い	e7	35	響い	root2	after
+A023n_PN2g_00002-4	35	響い	e7	35	響い	root1	A023n_PN2g_00002-5	8	停止	e8	18	ゼロ	root2	during
+A023n_PN2g_00002-13	22	発生	e16	23	し	root1	A023n_PN2g_00002-14	48	響い	e21	48	響い	root2	after
+A023n_PN2g_00002-14	48	響い	e21	48	響い	root1	A023n_PN2g_00002-15	11	続く	e22	12	見通し	root2	during
+A023n_PN2g_00002-15	11	続く	e22	12	見通し	root1	A023n_PN2g_00002-16	41	かかり	e26	42	そう	root2	vague
+A023n_PN2g_00002-16	41	かかり	e26	42	そう	root1	A023n_PN2g_00002-17	38	述べ	e30	38	述べ	root2	after
+A023n_PN2g_00002-17	38	述べ	e30	38	述べ	root1	A023n_PN2g_00002-18	52	なっ	e33	52	なっ	root2	after
+A023n_PN2g_00002-18	52	なっ	e33	52	なっ	root1	A023n_PN2g_00002-19	32	なっ	e36	32	なっ	root2	equal
+A023n_PN2g_00002-19	32	なっ	e36	32	なっ	root1	A023n_PN2g_00002-20	24	浮かび上がっ	e40	24	浮かび上がっ	root2	before
+A023n_PN2g_00002-20	24	浮かび上がっ	e40	24	浮かび上がっ	root1	A023n_PN2g_00002-21	18	計上	e41	36	発生	root2	after
+A023n_PN2g_00002-21	18	計上	e41	36	発生	root1	A023n_PN2g_00002-22	26	埋め	e43	27	切れ	root2	before
+A023n_PN2g_00002-24	66	ある	e47	66	ある	root1	A023n_PN2g_00002-25	26	迫ら	e51	26	迫ら	root2	during
